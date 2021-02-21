@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/asm-commons-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/browser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/checkconfigurationfile.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/checkser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/classdep.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/classserver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/computedigest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/computehttpmdcodebase.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/destroy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/envcheck.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/extra.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/fiddler.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/group.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/jarwrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/jini-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/jini-ext.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/jsk-debug-policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/jsk-lib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/jsk-platform.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/jsk-resources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/mahalo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/mercury.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/norm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/outrigger.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/outrigger-snaplogstore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/phoenix.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/phoenix-group.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/phoenix-init.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/preferredlistgen.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/reggie.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/serviceui.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/sharedvm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/start.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/sun-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib/tools.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/browser-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/fiddler-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/group-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/jsk-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/mahalo-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/mercury-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/norm-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/outrigger-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/phoenix-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/reggie-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-dl/sdm-dl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 4/river/lib-ext/jsk-policy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/herme/Desktop/Semestre 2020.2/PPD/Trabalho 3/apache-activemq-5.16.0/activemq-all-5.16.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
